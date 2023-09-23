@@ -1,0 +1,5 @@
+Sparse representation
+
+Two important techniques:
+1)Stemming - converting words to there base form
+3)Stop words elimination
